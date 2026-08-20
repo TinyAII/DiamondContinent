@@ -1,0 +1,15 @@
+name: DiamondContinent
+version: 2.0.0
+main: com.mcadmin.diamondcontinent.DiamondContinentPlugin
+api-version: "1.21"
+author: TinyAII
+description: 钻石大陆 - 超平坦 200 格全钻石矿世界 + 多要塞 + 新手礼包 + 出生保护
+commands:
+  diamondcontinent:
+    description: 钻石大陆管理命令
+    aliases: [dc, 钻石大陆]
+    usage: /钻石大陆 传送
+permissions:
+  diamondcontinent.admin:
+    description: 钻石大陆管理权限
+    default: op
