@@ -4,6 +4,8 @@
 
 装了它，进服脚下就是钻石矿、往下挖 200 格全是钻，地图里散布着 48 个带末地传送门的地下要塞，新手人人有精准采集镐开路。适合生存/挖矿服撑排面。
 
+> **MIT 开源** · 零依赖 · 可自由使用/修改/商用（保留 TinyAII 署名）
+
 ---
 
 ## 功能
@@ -84,4 +86,4 @@ Drop `diamondcontinent-2.0.0.jar` into `plugins/`, restart. Auto-creates the wor
 
 ## Author
 
-TinyAII · 免费但闭源 · 零依赖
+**TinyAII** · MIT License · Zero dependencies · 免费开源
